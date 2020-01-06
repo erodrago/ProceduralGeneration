@@ -1,7 +1,7 @@
 from PIL import Image
 
 from Map import *
-from _Generators import *
+from Utils import *
 from Colour import *
 from VectorMath import *
 
