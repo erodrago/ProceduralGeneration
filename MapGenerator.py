@@ -3,7 +3,6 @@ from PIL import Image
 from Map import *
 from Utils import *
 from Colour import *
-from VectorMath import *
 
 print("Preparing... \n");
 
